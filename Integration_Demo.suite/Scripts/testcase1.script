@@ -1,0 +1,7 @@
+﻿BeginTestCase "TC1"
+Demo.make_connection
+Demo.favourites
+Demo.history
+Demo.downloads
+EndTestCase "TC1"
+

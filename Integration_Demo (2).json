@@ -1,0 +1,1030 @@
+{
+  "dai_version": "6.5.0-3-f3bdf2f478e9ccf46309b438f4d1723ca57083e1",
+  "name": "Integration_Demo",
+  "test_cases": [
+    {
+      "name": "1-duplicate",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "db6fb0dd-e24e-4cd7-96e7-7c5e97bbe576",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "81ce1319-0069-4af9-8c0f-8eaecc99a834",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "189f9822-d94a-4554-952b-18c3e9e67134",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "TC4",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "db6fb0dd-e24e-4cd7-96e7-7c5e97bbe576",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "81ce1319-0069-4af9-8c0f-8eaecc99a834",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "b64013d9-4e8b-4997-97f0-a7a327aa000e",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "f11b2750-eda9-480a-b7ae-48a6b7f78842",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "218afa55-a2bf-4d52-ba48-02eb1cf3d816",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "824ec3cf-7ec7-4103-b423-8935bf14b679",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "0b9b9734-5467-48c5-83eb-8b8a82209a97",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "TC5",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "b64013d9-4e8b-4997-97f0-a7a327aa000e",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "f11b2750-eda9-480a-b7ae-48a6b7f78842",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "218afa55-a2bf-4d52-ba48-02eb1cf3d816",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "824ec3cf-7ec7-4103-b423-8935bf14b679",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "1de9a186-f5e9-460a-9b8b-e1981715180f",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "ZEP-T5",
+      "description": "",
+      "origin": "",
+      "external_id": "ZEP-R9",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "db6fb0dd-e24e-4cd7-96e7-7c5e97bbe576",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "81ce1319-0069-4af9-8c0f-8eaecc99a834",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "a658d1a9-3da9-4aa3-8919-a379e0db7037",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "TC2",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "8c4926c2-bccb-423f-8d93-aa02fa4177c3",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "c29bc9e8-40d0-48d0-86c5-c36fec8f644a",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "47baf255-2394-4bda-a9bf-3959024141f5",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "TC3",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "cf5a137e-824f-4429-a14a-3760733be64c",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    },
+    {
+      "name": "TC1",
+      "description": "",
+      "origin": "",
+      "external_id": "",
+      "tags": [],
+      "type": "DIRECTED",
+      "steps": [
+        {
+          "action_id": "62b05ea8-2386-441d-8278-fb172f8dd769",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "db6fb0dd-e24e-4cd7-96e7-7c5e97bbe576",
+          "submodel_test_case_id": null,
+          "parameters": [
+            {
+              "value": "",
+              "name": null,
+              "parameter_id": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+            }
+          ]
+        },
+        {
+          "action_id": "81ce1319-0069-4af9-8c0f-8eaecc99a834",
+          "submodel_test_case_id": null,
+          "parameters": []
+        },
+        {
+          "action_id": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+          "submodel_test_case_id": null,
+          "parameters": []
+        }
+      ],
+      "user_journey_id": null,
+      "id": "1ef5c2c9-add6-47c5-a313-35b2c0073185",
+      "model_id": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+    }
+  ],
+  "user_journeys": [],
+  "definition": {
+    "path": "",
+    "tags": [],
+    "version": "6.5.0-3",
+    "ePFsuite": "",
+    "elements": [
+      {
+        "id": 0,
+        "name": "Integration_Demo",
+        "type": "Root",
+        "parameters": [
+          {
+            "id": 1,
+            "name": "globalParam",
+            "type": "Set",
+            "random": "Generated",
+            "ranges": [
+              {
+                "values": "a,b,c,d",
+                "weight": 100,
+                "numBins": 4,
+                "distribution": "Flat"
+              }
+            ],
+            "initial": "",
+            "parameterUuid": "0896e29f-9869-4ab0-aa14-a0e35c9cdf0b"
+          }
+        ],
+        "elementUuid": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1"
+      },
+      {
+        "id": 1449604397118,
+        "name": "Exit",
+        "type": "State",
+        "parentId": 0,
+        "invisible": true,
+        "stateType": "Normal",
+        "parameters": [],
+        "elementUuid": "5eddee98-c643-415c-b6f8-89a603226bcb",
+        "sortingType": "Z"
+      },
+      {
+        "id": 949761132108,
+        "name": "Error",
+        "type": "State",
+        "parentId": 0,
+        "invisible": true,
+        "stateType": "Exception",
+        "parameters": [],
+        "elementUuid": "9d485bea-3f79-43c6-a4fd-b8b86f930a5d",
+        "sortingType": "X"
+      },
+      {
+        "id": 1554365931895,
+        "name": "Cleanup",
+        "type": "State",
+        "parentId": 0,
+        "invisible": true,
+        "stateType": "Cleanup",
+        "parameters": [],
+        "elementUuid": "7d0a553b-ead7-4c9f-96c2-4df2d4956843",
+        "sortingType": "Y"
+      },
+      {
+        "dx": 20,
+        "dy": 20,
+        "id": 500927653047,
+        "name": "Initial",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "invisible": false,
+        "stateType": "Start",
+        "parameters": [],
+        "shapeWidth": 140,
+        "elementUuid": "5d9a722f-3ea4-4ebf-8de8-f54b6191b3c8",
+        "shapeHeight": 100,
+        "sortingType": "A"
+      },
+      {
+        "dx": 240,
+        "dy": 20,
+        "id": 1554365931897,
+        "name": "Main Panel",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "snippets": [],
+        "invisible": false,
+        "stateType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "2058f28b-f76f-4ddd-8553-475e131ca8f2"
+          }
+        ],
+        "shapeWidth": 780,
+        "elementUuid": "aa64ac79-f05e-4620-88fd-a06be3793683",
+        "shapeHeight": 100,
+        "sortingType": "B"
+      },
+      {
+        "dx": 460,
+        "dy": 140,
+        "id": 1554365931898,
+        "name": "History Page",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "invisible": false,
+        "stateType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "09b86fe8-f64d-4370-b003-f83f1371e150"
+          }
+        ],
+        "shapeWidth": 120,
+        "elementUuid": "5c83cee6-2099-4cc9-b62c-959c51794355",
+        "shapeHeight": 120,
+        "sortingType": "B"
+      },
+      {
+        "dx": 280,
+        "dy": 140,
+        "id": 1554365931899,
+        "name": "Favorites Page",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "invisible": false,
+        "stateType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "88cb576f-9b9e-476d-83b3-5248a3a4e1f8"
+          }
+        ],
+        "shapeWidth": 140,
+        "elementUuid": "05e1f19f-4373-4ae9-8bbc-5c9af2ab79b4",
+        "shapeHeight": 100,
+        "sortingType": "B"
+      },
+      {
+        "dx": 620,
+        "dy": 140,
+        "id": 1554365931906,
+        "name": "Contacts Page",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "invisible": false,
+        "stateType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "5d0e0452-f7d8-4cdb-9be5-2917b16a6c39"
+          }
+        ],
+        "shapeWidth": 140,
+        "elementUuid": "f55fe2dc-fd1c-43ab-93fd-146c34f57ee6",
+        "shapeHeight": 200,
+        "sortingType": "B"
+      },
+      {
+        "dx": 800,
+        "dy": 140,
+        "id": 1554365931907,
+        "name": "Downloads Page",
+        "type": "State",
+        "textX": 20,
+        "textY": 25,
+        "parentId": 0,
+        "invisible": false,
+        "stateType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "d0432b13-f6b3-4416-8861-6e8f98793f00"
+          }
+        ],
+        "shapeWidth": 140,
+        "elementUuid": "d00802ec-0ec0-424c-9986-5e84fe6e526e",
+        "shapeHeight": 120,
+        "sortingType": "B"
+      },
+      {
+        "dx": 20,
+        "dy": 40,
+        "id": 1554365931896,
+        "name": "Connect Phone",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 500927653047,
+        "snippets": [
+          {
+            "name": "make_connection",
+            "type": "normal",
+            "fullName": "Demo.script:make_connection",
+            "scriptPath": "Demo.script:make_connection"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "33777851-b85e-4bd3-95c6-ce8207e5f1bc"
+          }
+        ],
+        "shapeWidth": 107,
+        "elementUuid": "62b05ea8-2386-441d-8278-fb172f8dd769",
+        "setGenerate": [
+          {
+            "value": "",
+            "setGen": "generate",
+            "parameterName": "globalParam"
+          }
+        ],
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931897
+          }
+        ]
+      },
+      {
+        "dx": 120,
+        "dy": 20,
+        "id": 1554365931900,
+        "name": "Favorites",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931897,
+        "snippets": [
+          {
+            "name": "favourites",
+            "type": "normal",
+            "fullName": "Demo.script:favourites",
+            "scriptPath": "Demo.script:favourites"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "2e1d6a9c-debe-4ee6-9aad-2e7d53871644"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "db6fb0dd-e24e-4cd7-96e7-7c5e97bbe576",
+        "setGenerate": [
+          {
+            "value": "",
+            "setGen": "generate",
+            "parameterName": "globalParam"
+          }
+        ],
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931899
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 40,
+        "id": 1554365931901,
+        "name": "Back to Main",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931899,
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "5fd3e455-b18c-4e9c-9831-104afc3aa63f"
+          }
+        ],
+        "shapeWidth": 90,
+        "elementUuid": "81ce1319-0069-4af9-8c0f-8eaecc99a834",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931897
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 40,
+        "id": 1554365931902,
+        "name": "Back",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931898,
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "e2c122e3-9c90-4fcc-bb9d-b9f84ccec607"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "c29bc9e8-40d0-48d0-86c5-c36fec8f644a",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931897,
+            "forceLabel": true
+          }
+        ]
+      },
+      {
+        "dx": 260,
+        "dy": 20,
+        "id": 1554365931903,
+        "name": "History",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931897,
+        "snippets": [
+          {
+            "name": "history",
+            "type": "normal",
+            "fullName": "Demo.script:history",
+            "scriptPath": "Demo.script:history"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "58242f4d-932c-4a8d-8dd8-352937cba9a6"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "8c4926c2-bccb-423f-8d93-aa02fa4177c3",
+        "setGenerate": [
+          {
+            "value": "",
+            "setGen": "generate",
+            "parameterName": "globalParam"
+          }
+        ],
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931898
+          }
+        ]
+      },
+      {
+        "dx": 540,
+        "dy": 20,
+        "id": 1554365931904,
+        "name": "Downloads",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931897,
+        "snippets": [
+          {
+            "name": "downloads",
+            "type": "normal",
+            "fullName": "Demo.script:downloads",
+            "scriptPath": "Demo.script:downloads"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "2a8faad6-4f54-4cde-884b-849a429701e1"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "218afa55-a2bf-4d52-ba48-02eb1cf3d816",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931907
+          }
+        ]
+      },
+      {
+        "dx": 380,
+        "dy": 20,
+        "id": 1554365931905,
+        "name": "Contacts",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931897,
+        "snippets": [
+          {
+            "name": "contacts",
+            "type": "normal",
+            "fullName": "Demo.script:contacts",
+            "scriptPath": "Demo.script:contacts"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "cf2d59f1-7077-440d-b175-8bc3f64aa019"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "b64013d9-4e8b-4997-97f0-a7a327aa000e",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931906
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 40,
+        "id": 1554365931908,
+        "name": "Back",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931906,
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "f4e4eded-824c-4646-a0e4-1f1ce47f58f5"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "f11b2750-eda9-480a-b7ae-48a6b7f78842",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931897,
+            "forceLabel": true
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 40,
+        "id": 1554365931909,
+        "name": "Back",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931907,
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "ff72c303-ba21-471b-820d-7ccc324bff05"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "824ec3cf-7ec7-4103-b423-8935bf14b679",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1554365931897,
+            "forceLabel": true
+          }
+        ]
+      },
+      {
+        "dx": 680,
+        "dy": 20,
+        "id": 1554365931910,
+        "name": "Close",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931897,
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "27e12e97-05b8-45cd-bc6a-089bbae1a918"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "c9d50bcd-927c-4501-b4de-6815679efe7b",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 1449604397118
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 120,
+        "id": 1554365931911,
+        "name": "Failure",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 1554365931906,
+        "snippets": [
+          {
+            "name": "failure",
+            "type": "normal",
+            "fullName": "Demo.script:failure",
+            "scriptPath": "Demo.script:failure"
+          }
+        ],
+        "callLimit": 0,
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "c9628572-5c7f-4d92-865f-fb56d568ef56"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "fe52a147-bc98-4515-8637-3fbd6193e77a",
+        "shapeHeight": 40,
+        "sortingType": "C",
+        "connectedStates": [
+          {
+            "stateRef": 949761132108
+          }
+        ]
+      },
+      {
+        "dx": 20,
+        "dy": 20,
+        "id": 1554365931914,
+        "name": "Global",
+        "type": "Action",
+        "textX": 15,
+        "textY": 22,
+        "weight": 100,
+        "parentId": 0,
+        "callLimit": 0,
+        "subModels": [
+          {
+            "name": "BankingApp",
+            "modeluuid": "3c20f575-5645-453a-987b-01da5615459b"
+          }
+        ],
+        "actionType": "Normal",
+        "parameters": [
+          {
+            "id": 0,
+            "name": "",
+            "type": "",
+            "random": "",
+            "ranges": [],
+            "initial": "",
+            "parameterUuid": "7f13f8cd-ee76-4e49-ba88-b35342ebb4cf"
+          }
+        ],
+        "shapeWidth": 80,
+        "elementUuid": "63033a5c-b7f8-48f8-bfd1-ab5787b3f16d",
+        "shapeHeight": 40,
+        "sortingType": "C"
+      }
+    ],
+    "modeluuid": "3ae3af09-6a63-42c6-99bb-d11f1eb7ecd1",
+    "suitePath": "Integration_Demo.suite",
+    "stateCounter": 6,
+    "actionCounter": 19,
+    "parameterCounter": 0,
+    "runCleanupAfterAbort": false,
+    "globalActionContainerCoords": {
+      "dx": 20,
+      "dy": 220,
+      "shapeWidth": 120,
+      "shapeHeight": 80
+    },
+    "allowGlobalActionsInInitialStates": true
+  }
+}

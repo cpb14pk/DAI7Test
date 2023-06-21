@@ -1,0 +1,5 @@
+﻿BeginTestCase "TC3"
+
+log "Running on AWS Sut"
+EndTestCase "TC3"
+

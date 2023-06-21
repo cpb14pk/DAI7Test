@@ -1,0 +1,38 @@
+﻿
+to make_connection
+	Connect "Tutorial Connection"
+	WaitFor 10, text: "Contacts"
+end make_connection
+
+
+to button_click button, exp
+	Log "Value chosen as" && button
+	Click text: button
+	WaitFor 10, text: exp
+end button_click
+
+
+to favourites
+	button_click"Favorites", "Still not a real phone"	
+end favourites
+
+
+to history
+	button_click "History", "Totally fake"
+end history
+
+
+to downloads
+	button_click "Downloads", "The phone is a lie"	
+	// eventually I can change them here
+end downloads
+
+
+to contacts
+	button_click "Contacts", "Not a real phone"
+end contacts
+
+to failure
+	LogError "Action failed"
+	
+end failure

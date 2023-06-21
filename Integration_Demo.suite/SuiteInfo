@@ -1,0 +1,24 @@
+﻿{
+    EPVersionNumber = 202303160857;
+    Schedules =     (
+                {
+            ChangeCount = 6;
+            Name = "Schedule 1";
+            Path = "~~schedule~~Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 6;
+                    Run = YES;
+                    Script = "testcase1.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "D0gd0_3R@iezSXb;";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

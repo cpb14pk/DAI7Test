@@ -1,0 +1,5 @@
+﻿BeginTestCase "TC2"
+Demo.favourites
+Demo.history
+Demo.downloads
+EndTestCase "TC2"
